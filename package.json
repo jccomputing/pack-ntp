@@ -2,7 +2,7 @@
 	"name": "ntp",
 	"types": ["pack"],
 	"version": "1.4",
-	"homepage": "https://github.com/shinken-monitoring/pack-ntp",
+	"homepage": "https://github.com/jccomputing/pack-ntp",
 	"author": "Jean Gabès",
 	"description": "NTP checks",
 	"contributors": [
@@ -15,7 +15,7 @@
 		"email": "jeanclaude.computing@gmail.com"
 	  }
 	],
-	"repository": "https://github.com/shinken-monitoring/pack-ntp",
+	"repository": "https://github.com/jccomputing/pack-ntp",
 	"keywords": [
 	  "pack",
 	  "ntp"
