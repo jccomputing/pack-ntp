@@ -1,0 +1,27 @@
+{
+	"name": "ntp",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-ntp",
+	"author": "Jean Gabès",
+	"description": "NTP checks",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Jean-Claude Computing",
+		"email": "jeanclaude.computing@gmail.com"
+	  }
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-ntp",
+	"keywords": [
+	  "pack",
+	  "ntp"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
